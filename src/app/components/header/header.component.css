@@ -1,0 +1,8 @@
+header {
+    /*buton için headerı düzeltiyor*/
+    display: flex;
+    justify-content: space-between;
+    /*buton sağa kayar*/
+    align-items: center;
+    margin-bottom: 20px;
+}
